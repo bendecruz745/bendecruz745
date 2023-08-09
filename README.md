@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben De Cruz
 - 👀 I’m interested in games, programming, and other standard internet things.
-- 🌱 I’m currently learning Full Stack Web Development, mainly utilizing the MERN stack.
+- 🌱 Presently working at Publift, currently working with Typescript, NestJS, Vue, GCP Datastore & BigQuery
 
 <!---
 bendecruz745/bendecruz745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
