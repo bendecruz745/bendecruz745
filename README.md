@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ben De Cruz
 - 👀 I’m interested in games, programming, and other standard internet things.
-- 🌱 Presently working at Publift, currently working with Typescript, NestJS, Vue, GCP Datastore & BigQuery
+- 🌱 PWorking at Publift
+- 🖋 Daily driving Typescript w/ Webstorm as the IDE
+- 🚃 Experienced in Vue 2/3 & Vuetify, NestJS, Terraform, CircleCI, Google Cloud (Datastore, Bigquery, SQL, Cloud Run, Docker) and Monorepos
 
 <!---
 bendecruz745/bendecruz745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
